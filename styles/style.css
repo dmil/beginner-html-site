@@ -1,12 +1,8 @@
 p {
-  color: red;
   width: 500px;
-  border: 1px solid black;
+  color:black;
 }
 
-p, li, h1 {
-  color: red;
-}
 
 html {
   background-color: #00539F;
@@ -26,4 +22,15 @@ h1 {
   color: #00539F;
   text-shadow: 2px 2px 1px black;
 }
-Y
+
+.quote {
+  border: 1px solid black;
+}
+
+#mainquote {
+	color:green;
+}
+
+.importanttext {
+	display: inline-block;
+}
